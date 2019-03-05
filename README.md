@@ -1,6 +1,6 @@
 # Drainage-Management-System (Using IoT)
 
-<h3>Step on blockage the only way to flow</h3>
+<h3>Tagline: Step on blockage the only way to flow</h3>
 <h2>1.INTRODUCTION</h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;The drainage system is an important component of cities. It is considered to be city’s lifeline. Mostly,the management on drainage is manual by workers, therefore it is not efficient to have a clean working system. Moreover, in such big cities, it is difficult for the government's personnel to locate the exact area which a blockage occures until it is notified by the local people. Therefore, it is important to develop a system which can handle drainage overflow which is the result of blockages, without human interfere. This project describes various functions used for maintaining and monitoring of underground drainage system. It provides a system which is able to monitor the water level, water flow, atmospheric temperature, and toxic gasses. If drainage system gets blocked and water overflows it can be identified by the sensors of system. Then sensors send information via the transmitter which is located in that particular area to the corresponding managing station.</p>
 
