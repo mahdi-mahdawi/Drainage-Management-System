@@ -12,4 +12,28 @@
   <li>	Use of flow sensors to detect the variations in the flow. </li>
   <li>	Get the prior alerts of blockages and locate them using IOT. Trace location using GPS and send SMS through GSM.</li></ol>
 
-<h4>1.2BLOCK DIAGRAM</h4>
+<h4>1.2Block Diagram</h4>
+<img src="photos/Block diagram.png" alt="Block Diagram" height="40%" width="70%" alignment="center">
+
+<h2>2.System Analysis</h2>
+<h3>2.2	Functional Requirement:</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; When the water level rises in the drain the water overflows to the road. The drainage consists of water flow sensor which detects the flow of the water. If there is stop in the flow of water then there is a rise water level. The flow stops due to reasons like blockage in the drain. The water level sensor detects the rise in water, if the water level exceeds to more than the given threshold value then it can be a dangerous situation. When there is rise in water, with the help Of GPS and GSM a message is sent to the government body who are responsible for the cleanliness. So that they could clear up the drainage. We have used here temperature sensor to detect the temperature and also gas sensor. Gas sensor is used because it can also detect the harmful gas. In a city like Bangalore, in most areas gas pipe runs parallel to the drainage. So there are chances of leakage in the gas pip. Therefore, the gas sensor detects the flow of gas to ensure the safety of the personnel.  </p>
+
+<h3>2.3	Requirement Specification:</h3>
+<h4>2.3.1 Software Requirement</h4>
+<h5>2.3.1.1 Arduino IDE: </h5>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; The Arduino Integrated Development Environment - or Arduino Software (IDE) it contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions and a series of menus. It connects to the Arduino and Genuino hardware to upload programs and communicate with them.</p>
+
+<h4>2.3.2 Hardware Requirement</h4>
+		  
+<ol>
+   <li>Arduino Uno  </li>
+   <li>Bread Board </li>
+   <li>Jumper wire </li>
+   <li>Water Flow senso</li>
+   <li>Water level sensor</li>
+   <li>Temperature Senso</li>
+   <li>Gas sensor</li>
+   <li>GPS</li>
+   <li>GSM</li>
+</ol>
