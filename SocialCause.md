@@ -1,5 +1,5 @@
-Based on the United nation Sustainable develpopment goals 6 which is clean water and sanitation. 
-People
+Our project is based on the United nation Sustainable develpopment goals 6 which is clean water and sanitation. 
+
 
 A blockage in Drinage pipes it will prevent the flow of this water to recycle systmes which end of the day may casue the shortage of supply of water to the cities. this system detect the blockage and alert the perssonel incharge. 
 
