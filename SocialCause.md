@@ -7,5 +7,7 @@ The blockage in driange pipes also prevent the flow of the water. most of the wa
 
 When the drainge system blocks it cause the raise on the risk of increase on gases like metan and carbon dioxide which has the explosive nature and may cause explosions in the pipes and may cost peoples lives. this system make sure to prevent these kind of issues.
 
-one last and most important problem is coming from when the pipes get damage. The most dangarous 
+One last and most important problem is wasted water in blocked pipes may be birth place to the most dangerous bacterias and diseases. The cost of hygine and healthcare may drasticaly decreases. As the system prevent the blokage in the pipes. 
+
+
 
