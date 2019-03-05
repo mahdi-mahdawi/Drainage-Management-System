@@ -30,9 +30,9 @@
    <li>Arduino Uno  </li>
    <li>Bread Board </li>
    <li>Jumper wire </li>
-   <li>Water Flow senso</li>
+   <li>Water Flow sensor</li>
    <li>Water level sensor</li>
-   <li>Temperature Senso</li>
+   <li>Temperature Sensor</li>
    <li>Gas sensor</li>
    <li>GPS</li>
    <li>GSM</li>
