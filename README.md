@@ -16,7 +16,7 @@
   <li>	Get the prior alerts of blockages and locate them using IOT. Trace location using GPS and send SMS through GSM.</li></ol>
 
 <h4>1.2Block Diagram</h4>
-<img src="photos/Block diagram.png" alt="Block Diagram" height="40%" width="70%" alignment="center">
+<img src="photos/Block diagram.png" alt="Block Diagram" height="40%" width="70%" align="center">
 
 <h2>2.System Analysis</h2>
 <h3>2.2	Functional Requirement:</h3>
