@@ -41,5 +41,5 @@
    <li>GSM</li>
 </ol>
 
-<h2>CONCLUSION </2>
+<h2>CONCLUSION </h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Underground monitoring is challenging problem. This project proposes different methods for monitoring and managing underground drainage system. It explains various applications like underground drainage and manhole identification in real time. Various parameters like temperature, toxic gases, flow and level of water are being monitored and updated on the internet using the Internet of Things. This enables the person in-charge to take the necessary actions regarding the same. In this way the unnecessary trips on the manholes are saved and can only be conducted as and when required. Also, real time update on the internet helps in maintaining the regularity in drainage check thus avoiding the hazards. </p>
